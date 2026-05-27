@@ -1,0 +1,81 @@
+word,frequency,cluster
+free,112,REWARD
+claim,89,ACTION
+prize,63,REWARD
+won,58,REWARD
+urgent,55,URGENCY
+offer,53,REWARD
+cash,46,FINANCIAL
+1000,36,OTHER
+cs,31,OTHER
+holiday,27,OTHER
+shows,26,OTHER
+account,26,FINANCIAL
+10,25,OTHER
+contact,25,ACTION
+000,25,OTHER
+customer,25,AUTHORITY
+draw,24,REWARD
+receive,24,REWARD
+awarded,23,REWARD
+selected,23,REWARD
+mins,21,OTHER
+5000,20,OTHER
+win,19,REWARD
+update,19,ACTION
+code,19,CREDENTIAL
+collection,19,OTHER
+link,19,ACTION
+16,18,OTHER
+150ppm,18,OTHER
+selected receive,18,REWARD
+number,18,OTHER
+today,17,URGENCY
+click,16,ACTION
+valid,16,OTHER
+award,16,OTHER
+aadhaar,16,IDENTITY
+chance,15,OTHER
+camera,15,OTHER
+video,15,OTHER
+entry,15,OTHER
+2nd,15,OTHER
+2000,15,OTHER
+150,15,OTHER
+want,15,OTHER
+1000 cash,15,FINANCIAL
+latest,14,OTHER
+loan,14,FINANCIAL
+11,14,OTHER
+bank,14,FINANCIAL
+bonus,14,REWARD
+800,13,OTHER
+easy,13,OTHER
+winner,13,OTHER
+talktime,13,OTHER
+immediately,13,URGENCY
+statement,12,OTHER
+tried,12,OTHER
+prize claim,12,ACTION
+offers,12,OTHER
+otp,12,CREDENTIAL
+08000930705,12,OTHER
+customer service,12,AUTHORITY
+points,11,OTHER
+gift,11,REWARD
+guaranteed,11,OTHER
+vouchers,11,OTHER
+free entry,11,REWARD
+camcorder,11,OTHER
+0800,11,OTHER
+account statement,10,FINANCIAL
+price,10,OTHER
+double,10,OTHER
+double mins,10,OTHER
+rs,10,OTHER
+03,10,OTHER
+voucher,9,OTHER
+congratulations,9,OTHER
+help,9,OTHER
+message,9,OTHER
+350,9,OTHER

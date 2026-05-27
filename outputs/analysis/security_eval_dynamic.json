@@ -1,0 +1,18 @@
+{
+  "evaluation_type": "dynamic",
+  "messages_tested": 20,
+  "prompt_injection": {
+    "total_attacks": 40,
+    "defended": 40,
+    "defense_rate": "100.0%",
+    "classifier_catch": "100.0%"
+  },
+  "adversarial_text": {
+    "total_perturbations": 40,
+    "robust": 37,
+    "robustness_rate": "92.5%",
+    "prediction_flip_rate": "2.5%",
+    "avg_confidence_drop": "3.6%"
+  },
+  "overall_security_score": "96.2%"
+}
